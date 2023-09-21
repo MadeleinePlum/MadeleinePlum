@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madeleine</h1>
 <h3 align="center">A Junior Front End Developer</h3>
 
-🔭 My boot camp projects:
+🔭 My Le Wagon boot camp projects:
 - [AIRLOL](https://github.com/marissavwolff/AIRLOL)
 - [MaxCapacity](https://github.com/marissavwolff/MaxCapacity)
 
-🌱 I’m currently learning **JavaScript and CSS**
+🌱 I’m currently learning and further developing my skills in **JavaScript and CSS**
 
 📝 I regularly write(bake) articles on [PlumCooks](https://plumcooks.com/)
 
