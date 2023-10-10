@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madeleine</h1>
-<h3 align="center">A Junior Front End Developer</h3>
+<h3 align="center">A Junior Developer</h3>
 
 🔭 My Le Wagon boot camp projects:
 - [AIRLOL](https://github.com/marissavwolff/AIRLOL)
