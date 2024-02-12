@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Madeleine</h1>
 <h3 align="center">A Junior Developer</h3>
 
+Learn more about me [over here](https://madeleineplum.github.io/profile/)
+
 🔭 My Le Wagon boot camp projects:
 - [AIRLOL](https://github.com/marissavwolff/AIRLOL)
 - [MaxCapacity](https://github.com/marissavwolff/MaxCapacity)
 
 🌱 I’m currently learning and further developing my skills in **JavaScript and CSS**
 
-📝 I regularly write(bake) articles on [PlumCooks](https://plumcooks.com/)
+📝 I regularly write(bake) articles on [PlumCooks](https://plumcooks.com/) (new site coming soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
